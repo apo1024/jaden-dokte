@@ -1,0 +1,1981 @@
+{
+ "Apple___Apple_scab": {
+  "crop": {
+   "fr": "Pommier",
+   "ht": "Pye pòm"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Tavelure du pommier",
+   "ht": "Tavli pòm (tach nwa sou fèy ak fwi)"
+  },
+  "description": {
+   "fr": "Maladie causée par un champignon (Venturia inaequalis) qui se développe par temps humide. Elle tache feuilles et fruits et réduit la récolte.",
+   "ht": "Se yon chanpiyon (Venturia inaequalis) ki devlope lè tan an imid. Li tache fèy ak fwi, epi li fè rekòt la diminye."
+  },
+  "signs": {
+   "fr": [
+    "Taches vert olive à noires, veloutées, sur les feuilles",
+    "Taches brunes liégeuses et crevasses sur les fruits",
+    "Feuilles qui jaunissent et tombent tôt",
+    "Fruits déformés ou petits"
+   ],
+   "ht": [
+    "Tach vèt fonse ak nwa, tankou vlou, sou fèy yo",
+    "Tach mawon di epi fann sou fwi yo",
+    "Fèy ki jòn epi tonbe twò bonè",
+    "Fwi ki defòme oswa ki rete piti"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Enlever les feuilles et fruits très tachés",
+    "Ramasser les feuilles tombées sous l'arbre et les brûler ou enterrer",
+    "Ne pas mouiller le feuillage en arrosant"
+   ],
+   "ht": [
+    "Retire fèy ak fwi ki gen anpil tach",
+    "Ranmase fèy ki tonbe anba pye a, boule yo oswa tere yo",
+    "Pa mouye fèy yo lè w ap wouze"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Tailler pour aérer le centre de l'arbre et sécher vite le feuillage",
+    "Pulvérisation de soufre mouillable (accepté en bio) en prévention",
+    "Composter ou enterrer les feuilles mortes pour couper le cycle"
+   ],
+   "ht": [
+    "Taye pye a pou van pase nan mitan l, pou fèy yo seche vit",
+    "Flite souf (souf mouye) davans, li aksepte nan agrikilti biyo",
+    "Fè konpòs oswa tere fèy mouri yo pou kase sik maladi a"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Soufre mouillable"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Planter des variétés résistantes à la tavelure",
+    "Espacer les arbres et tailler chaque année",
+    "Nettoyer les feuilles mortes après chaque saison"
+   ],
+   "ht": [
+    "Plante varyete ki reziste ak tavli",
+    "Kite espas ant pye yo epi taye yo chak ane",
+    "Netwaye fèy mouri yo apre chak sezon"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome ou le Bureau agricole communal (BAC) si la maladie touche plusieurs arbres malgré ces mesures.",
+   "ht": "Rele yon agwonòm oswa Biwo agrikòl komin nan (BAC) si maladi a pran plizyè pye malgre tout sa w fè."
+  }
+ },
+ "Apple___Black_rot": {
+  "crop": {
+   "fr": "Pommier",
+   "ht": "Pye pòm"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Pourriture noire du pommier",
+   "ht": "Pouriti nwa pòm"
+  },
+  "description": {
+   "fr": "Maladie due à un champignon (Botryosphaeria obtusa) qui attaque feuilles, fruits et branches. Il survit dans les fruits momifiés et le bois mort.",
+   "ht": "Se yon chanpiyon (Botryosphaeria obtusa) ki atake fèy, fwi ak branch. Li rete viv nan fwi ki cheche ak bwa mouri."
+  },
+  "signs": {
+   "fr": [
+    "Petites taches violettes devenant brunes avec bord pourpre (« œil de grenouille »)",
+    "Fruits avec pourriture brune puis noire, en cercles",
+    "Fruits secs et ridés qui restent sur l'arbre",
+    "Chancres sombres sur les branches"
+   ],
+   "ht": [
+    "Ti tach vyolèt ki vin mawon ak bòdi wouj fonse (« je krapo »)",
+    "Fwi ki pouri mawon apre sa nwa, an fòm wonn",
+    "Fwi ki cheche, ride, epi ki rete kole sou pye a",
+    "Blesi fonse (chank) sou branch yo"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Cueillir et détruire tous les fruits pourris ou momifiés",
+    "Couper les branches mortes ou à chancres, 15 cm sous la zone malade",
+    "Brûler ou enterrer loin les déchets coupés"
+   ],
+   "ht": [
+    "Keyi epi detwi tout fwi ki pouri oswa ki cheche",
+    "Koupe branch mouri oswa ki gen chank, 15 cm anba pati malad la",
+    "Boule oswa tere byen lwen tout sa w koupe"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Hygiène stricte : retirer fruits momifiés et bois mort, c'est le moyen le plus efficace",
+    "Tailler par temps sec et désinfecter l'outil (eau de Javel diluée ou alcool)"
+   ],
+   "ht": [
+    "Pwòpte pye a byen: retire fwi cheche ak bwa mouri, se pi bon remèd la",
+    "Taye lè tan an sèk epi dezenfekte zouti a (klowòks dilye oswa alkòl)"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Captane"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Tailler chaque année pour enlever le bois mort",
+    "Éviter les blessures sur l'écorce et les fruits",
+    "Garder l'arbre vigoureux avec du compost et un bon arrosage au pied"
+   ],
+   "ht": [
+    "Taye chak ane pou retire bwa mouri",
+    "Evite blese po pye a ak fwi yo",
+    "Kenbe pye a an fòs ak konpòs epi wouze l nan pye"
+   ]
+  },
+  "help": {
+   "fr": "Contactez un agronome ou le BAC si les chancres s'étendent sur le tronc ou plusieurs arbres.",
+   "ht": "Kontakte yon agwonòm oswa BAC la si chank yo ap gaye sou tij la oswa sou plizyè pye."
+  }
+ },
+ "Apple___Cedar_apple_rust": {
+  "crop": {
+   "fr": "Pommier",
+   "ht": "Pye pòm"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Rouille grillagée du pommier (rouille du cèdre)",
+   "ht": "Rouy pòm (wouy sèd)"
+  },
+  "description": {
+   "fr": "Champignon (Gymnosporangium) qui a besoin de deux hôtes : le pommier et le genévrier/cèdre rouge. Il affaiblit l'arbre et abîme les fruits.",
+   "ht": "Se yon chanpiyon (Gymnosporangium) ki bezwen de plant pou l viv: pye pòm ak pye sèd/jenevriye. Li fè pye a fèb epi li gate fwi yo."
+  },
+  "signs": {
+   "fr": [
+    "Taches jaune-orange vif sur le dessus des feuilles",
+    "Petits points noirs au centre des taches",
+    "Petites excroissances en poils sous la feuille",
+    "Feuilles qui tombent tôt"
+   ],
+   "ht": [
+    "Tach jòn zoranj klere sou anwo fèy yo",
+    "Ti pwen nwa nan mitan tach yo",
+    "Ti boul ak ti cheve anba fèy la",
+    "Fèy ki tonbe twò bonè"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Retirer les feuilles très atteintes",
+    "Chercher les genévriers/cèdres proches avec des galles orange",
+    "Couper ces galles sur les cèdres et les détruire"
+   ],
+   "ht": [
+    "Retire fèy ki pi malad yo",
+    "Chèche pye sèd/jenevriye ki toupre ki gen boul zoranj sou yo",
+    "Koupe boul sa yo sou pye sèd la epi detwi yo"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Éloigner ou éliminer les genévriers/cèdres hôtes autour du verger",
+    "Soufre mouillable en prévention au début de la saison des pluies"
+   ],
+   "ht": [
+    "Retire oswa elwaye pye sèd/jenevriye ki toupre jaden an",
+    "Flite souf mouye davans, lè sezon lapli ap kòmanse"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Soufre mouillable"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Ne pas planter de genévriers près des pommiers",
+    "Choisir des variétés de pommier résistantes à la rouille",
+    "Tailler pour bien aérer l'arbre"
+   ],
+   "ht": [
+    "Pa plante pye jenevriye toupre pye pòm",
+    "Chwazi varyete pòm ki reziste ak rouy",
+    "Taye pye a pou van pase byen"
+   ]
+  },
+  "help": {
+   "fr": "Demandez conseil à un agronome ou au BAC si la rouille revient chaque année.",
+   "ht": "Mande yon agwonòm oswa BAC la konsèy si rouy la tounen chak ane."
+  }
+ },
+ "Cherry_(including_sour)___Powdery_mildew": {
+  "crop": {
+   "fr": "Cerisier",
+   "ht": "Pye seriz"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Oïdium (blanc) du cerisier",
+   "ht": "Blan (farin) sou fèy seriz"
+  },
+  "description": {
+   "fr": "Champignon (Podosphaera) qui couvre les jeunes feuilles d'une poudre blanche. Il freine la croissance et peut abîmer les fruits.",
+   "ht": "Se yon chanpiyon (Podosphaera) ki kouvri jèn fèy yo ak yon poud blan. Li ralanti kwasans plant lan epi li ka gate fwi yo."
+  },
+  "signs": {
+   "fr": [
+    "Poudre blanche comme de la farine sur les feuilles",
+    "Jeunes feuilles enroulées ou déformées",
+    "Taches pâles puis brunes sur les feuilles",
+    "Fruits ternes avec duvet blanc"
+   ],
+   "ht": [
+    "Poud blan tankou farin sou fèy yo",
+    "Jèn fèy ki woule oswa defòme",
+    "Tach pal ki vin mawon sou fèy yo",
+    "Fwi ki pa klere ak yon ti pousyè blan sou yo"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Couper les pousses et feuilles les plus blanches",
+    "Ne pas les laisser au sol : les brûler ou enterrer",
+    "Arroser au pied le matin, jamais sur les feuilles"
+   ],
+   "ht": [
+    "Koupe ti branch ak fèy ki pi blan yo",
+    "Pa kite yo atè: boule yo oswa tere yo",
+    "Wouze nan pye a nan maten, pa janm sou fèy yo"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Bicarbonate de soude (1 cuillère/litre d'eau + un peu de savon noir) en pulvérisation",
+    "Lait dilué (1 part pour 9 d'eau) sur les feuilles, au soleil",
+    "Soufre mouillable, efficace et accepté en bio"
+   ],
+   "ht": [
+    "Bikabonat (1 ti kiyè nan 1 lit dlo + yon ti savon nwa) pou flite",
+    "Lèt dilye (1 pòsyon lèt pou 9 dlo) sou fèy yo, nan solèy",
+    "Souf mouye, li bon epi li aksepte nan biyo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Soufre mouillable"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Tailler pour faire entrer air et soleil",
+    "Éviter trop d'engrais azoté (jeunes pousses tendres)",
+    "Surveiller les jeunes feuilles chaque semaine"
+   ],
+   "ht": [
+    "Taye pye a pou lè ak solèy antre",
+    "Pa mete twòp angrè azòt (sa bay jèn branch ki mou)",
+    "Siveye jèn fèy yo chak semèn"
+   ]
+  },
+  "help": {
+   "fr": "Consultez un agronome ou le BAC si les fruits sont touchés ou si l'oïdium persiste après plusieurs traitements.",
+   "ht": "Konsilte yon agwonòm oswa BAC la si fwi yo touche oswa si blan an pa ale apre plizyè tretman."
+  }
+ },
+ "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+  "crop": {
+   "fr": "Maïs",
+   "ht": "Mayi"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Cercosporiose (taches grises du maïs)",
+   "ht": "Tach gri sou fèy mayi"
+  },
+  "description": {
+   "fr": "Champignon (Cercospora zeae-maydis) favorisé par la chaleur humide et les résidus de maïs. Il détruit les feuilles et fait baisser le rendement.",
+   "ht": "Se yon chanpiyon (Cercospora zeae-maydis) ki renmen chalè imid ak rès pye mayi ki rete nan jaden an. Li manje fèy yo epi li fè rekòt la bese."
+  },
+  "signs": {
+   "fr": [
+    "Taches rectangulaires gris-brun entre les nervures",
+    "Taches allongées, à bords nets et parallèles",
+    "Commence sur les feuilles du bas puis monte",
+    "Feuilles entières qui sèchent"
+   ],
+   "ht": [
+    "Tach rektang gri-mawon ant venn fèy yo",
+    "Tach long ak bòdi dwat, pararèl",
+    "Li kòmanse sou fèy anba yo epi li monte",
+    "Fèy antye ki vin sèch"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Retirer les feuilles basses très atteintes",
+    "Ne pas travailler dans le champ quand les feuilles sont mouillées",
+    "Noter la surface touchée pour décider avec un technicien"
+   ],
+   "ht": [
+    "Retire fèy anba yo ki pi malad",
+    "Pa travay nan jaden an lè fèy yo mouye",
+    "Gade konbyen jaden an touche pou deside ak yon teknisyen"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pas de remède naturel qui guérit cette maladie",
+    "Rotation : ne pas replanter du maïs au même endroit l'année suivante",
+    "Enfouir ou composter les tiges et feuilles après la récolte"
+   ],
+   "ht": [
+    "Pa gen remèd natirèl ki geri maladi sa a",
+    "Wotasyon: pa replante mayi menm kote a ane apre",
+    "Tere oswa fè konpòs ak pay mayi apre rekòt la"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide systémique (strobilurine)",
+    "active": "Azoxystrobine"
+   },
+   {
+    "family": "Fongicide systémique (triazole)",
+    "active": "Propiconazole"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Semer des variétés tolérantes",
+    "Alterner le maïs avec haricot, pois ou patate",
+    "Ne pas semer trop serré pour garder l'air"
+   ],
+   "ht": [
+    "Plante varyete ki reziste",
+    "Chanje mayi ak pwa, pwa kongo oswa patat",
+    "Pa plante twò sere pou van ka pase"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome ou le BAC si les taches atteignent les feuilles au-dessus de l'épi avant la floraison.",
+   "ht": "Rele yon agwonòm oswa BAC la si tach yo rive sou fèy ki anwo zepi a anvan mayi a fè flè."
+  }
+ },
+ "Corn_(maize)___Common_rust_": {
+  "crop": {
+   "fr": "Maïs",
+   "ht": "Mayi"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Rouille commune",
+   "ht": "Rouy (wouy) mayi"
+  },
+  "description": {
+   "fr": "Champignon (Puccinia sorghi) dont les spores voyagent avec le vent. Une forte attaque réduit la surface verte et la taille des épis.",
+   "ht": "Se yon chanpiyon (Puccinia sorghi) ki gaye ak van. Lè li atake fò, fèy yo pèdi koulè vèt yo epi zepi yo rete piti."
+  },
+  "signs": {
+   "fr": [
+    "Petites pustules brun-rouge sur les deux faces des feuilles",
+    "Poudre couleur rouille qui reste sur les doigts",
+    "Feuilles qui jaunissent puis sèchent si l'attaque est forte"
+   ],
+   "ht": [
+    "Ti bouton mawon-wouj sou de bò fèy yo",
+    "Yon poud koulè rouy ki rete nan dwèt ou lè w manyen l",
+    "Fèy ki vin jòn epi sèch lè atak la fò"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Vérifier combien de plants et de feuilles sont touchés",
+    "Retirer les feuilles basses très couvertes sur petites parcelles",
+    "Bien nourrir le maïs (compost) pour qu'il résiste"
+   ],
+   "ht": [
+    "Gade konbyen pye ak fèy ki touche",
+    "Nan ti jaden, retire fèy anba yo ki plen rouy",
+    "Bay mayi a bon manje (konpòs) pou l kenbe"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Aucun remède naturel ne guérit la rouille",
+    "Semer tôt dans la saison et choisir des variétés résistantes",
+    "Détruire les repousses de maïs hors saison"
+   ],
+   "ht": [
+    "Pa gen remèd natirèl ki geri rouy",
+    "Plante bonè nan sezon an epi chwazi varyete ki reziste",
+    "Detwi ti mayi ki repouse andeyò sezon"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   },
+   {
+    "family": "Fongicide systémique (triazole)",
+    "active": "Propiconazole"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Utiliser des semences de variétés tolérantes à la rouille",
+    "Faire la rotation des cultures",
+    "Éviter les semis trop serrés"
+   ],
+   "ht": [
+    "Sèvi ak semans varyete ki reziste ak rouy",
+    "Fè wotasyon kilti yo",
+    "Pa plante twò sere"
+   ]
+  },
+  "help": {
+   "fr": "Contactez un agronome ou le BAC si la rouille couvre beaucoup de feuilles avant la sortie des soies.",
+   "ht": "Kontakte yon agwonòm oswa BAC la si rouy la kouvri anpil fèy anvan cheve mayi a parèt."
+  }
+ },
+ "Corn_(maize)___Northern_Leaf_Blight": {
+  "crop": {
+   "fr": "Maïs",
+   "ht": "Mayi"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Helminthosporiose du nord (brûlure des feuilles)",
+   "ht": "Boule fèy mayi (gwo tach long)"
+  },
+  "description": {
+   "fr": "Champignon (Exserohilum turcicum) favorisé par les pluies et la rosée. Les grandes lésions sèchent les feuilles et réduisent la récolte.",
+   "ht": "Se yon chanpiyon (Exserohilum turcicum) ki renmen lapli ak lawouze. Gwo tach yo fè fèy yo seche epi rekòt la diminye."
+  },
+  "signs": {
+   "fr": [
+    "Longues taches gris-vert en forme de cigare (3 à 15 cm)",
+    "Taches qui deviennent beiges ou brunes",
+    "Commence sur les feuilles du bas",
+    "Feuilles qui semblent brûlées"
+   ],
+   "ht": [
+    "Tach long gri-vèt tankou siga (3 a 15 cm)",
+    "Tach ki vin bèj oswa mawon",
+    "Li kòmanse sou fèy anba yo",
+    "Fèy ki sanble yo boule"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Retirer et détruire les feuilles les plus atteintes",
+    "Éviter d'arroser le soir sur le feuillage",
+    "Surveiller si les taches montent vers l'épi"
+   ],
+   "ht": [
+    "Retire epi detwi fèy ki pi malad yo",
+    "Pa wouze sou fèy yo leswa",
+    "Siveye si tach yo ap monte bò zepi a"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pas de remède naturel efficace une fois installée",
+    "Enfouir ou composter les résidus de maïs après récolte",
+    "Rotation avec des légumineuses (pois, haricot)"
+   ],
+   "ht": [
+    "Pa gen remèd natirèl ki mache lè maladi a fin enstale",
+    "Tere oswa fè konpòs ak rès mayi apre rekòt",
+    "Fè wotasyon ak pwa oswa pwa kongo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   },
+   {
+    "family": "Fongicide systémique (triazole)",
+    "active": "Propiconazole"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Semer des variétés résistantes",
+    "Ne pas cultiver maïs après maïs",
+    "Espacer les rangs pour sécher le feuillage"
+   ],
+   "ht": [
+    "Plante varyete ki reziste",
+    "Pa plante mayi apre mayi",
+    "Kite espas ant ranje yo pou fèy yo seche"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome ou le BAC si les taches gagnent les feuilles de l'épi avant la floraison.",
+   "ht": "Rele yon agwonòm oswa BAC la si tach yo rive sou fèy zepi a anvan mayi a fè flè."
+  }
+ },
+ "Grape___Black_rot": {
+  "crop": {
+   "fr": "Vigne",
+   "ht": "Rezen"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Pourriture noire (black rot) de la vigne",
+   "ht": "Pouriti nwa rezen"
+  },
+  "description": {
+   "fr": "Champignon (Guignardia bidwellii) très actif par temps chaud et humide. Il peut détruire la plupart des grappes.",
+   "ht": "Se yon chanpiyon (Guignardia bidwellii) ki travay anpil lè fè cho ak imid. Li ka detwi prèske tout grap rezen yo."
+  },
+  "signs": {
+   "fr": [
+    "Taches brunes rondes avec bord foncé sur les feuilles",
+    "Petits points noirs dans les taches",
+    "Grains qui brunissent puis sèchent, noirs et ridés",
+    "Grains momifiés restant sur la grappe"
+   ],
+   "ht": [
+    "Tach mawon wonn ak bòdi fonse sou fèy yo",
+    "Ti pwen nwa nan tach yo",
+    "Grenn rezen ki vin mawon, apre sa nwa, sèch epi ride",
+    "Grenn cheche ki rete kole sou grap la"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Enlever toutes les grappes et grains malades ou secs",
+    "Couper les feuilles tachées",
+    "Brûler ou enterrer profond ces déchets"
+   ],
+   "ht": [
+    "Retire tout grap ak grenn ki malad oswa ki cheche",
+    "Koupe fèy ki gen tach yo",
+    "Boule oswa tere byen fon tout sa w retire"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Nettoyage complet des grains momifiés : c'est la base du contrôle",
+    "Tailler et attacher la vigne pour aérer les grappes"
+   ],
+   "ht": [
+    "Netwaye tout grenn ki cheche yo: se baz kontwòl la",
+    "Taye epi mare pye rezen an pou lè pase nan grap yo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   },
+   {
+    "family": "Fongicide systémique (triazole)",
+    "active": "Myclobutanil"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Retirer les grains momifiés avant chaque saison des pluies",
+    "Désherber sous la vigne pour réduire l'humidité",
+    "Protéger tôt, de la floraison jusqu'aux petits grains"
+   ],
+   "ht": [
+    "Retire grenn cheche yo anvan chak sezon lapli",
+    "Sekle anba pye rezen an pou mwens imidite",
+    "Pwoteje bonè, depi flè rive lè grenn yo piti"
+   ]
+  },
+  "help": {
+   "fr": "Contactez un agronome ou le BAC si les grappes pourrissent malgré le nettoyage.",
+   "ht": "Kontakte yon agwonòm oswa BAC la si grap yo kontinye pouri malgre netwayaj la."
+  }
+ },
+ "Grape___Esca_(Black_Measles)": {
+  "crop": {
+   "fr": "Vigne",
+   "ht": "Rezen"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Esca (maladie du bois de la vigne)",
+   "ht": "Eska (maladi bwa rezen)"
+  },
+  "description": {
+   "fr": "Maladie du bois causée par plusieurs champignons qui entrent par les plaies de taille. Elle n'a pas de traitement curatif et peut tuer le pied.",
+   "ht": "Se yon maladi bwa plizyè chanpiyon bay, yo antre nan blesi taye yo. Pa gen tretman ki geri l, epi li ka touye pye a."
+  },
+  "signs": {
+   "fr": [
+    "Feuilles « tigrées » : bandes jaunes ou rouges entre les nervures qui sèchent",
+    "Petites taches noires-violettes sur les grains",
+    "Bois brun ou noir à l'intérieur du tronc coupé",
+    "Pied qui dessèche d'un coup en saison chaude"
+   ],
+   "ht": [
+    "Fèy ki gen bann jòn oswa wouj ant venn yo ki vin sèch (tankou tig)",
+    "Ti tach nwa-vyolèt sou grenn yo",
+    "Bwa mawon oswa nwa anndan tij la lè w koupe l",
+    "Pye a ki seche toudenkou nan sezon chalè"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Marquer les pieds malades pour les tailler en dernier",
+    "Couper le bois mort jusqu'au bois sain",
+    "Arracher et brûler les pieds morts"
+   ],
+   "ht": [
+    "Make pye ki malad yo pou taye yo an dènye",
+    "Koupe bwa mouri a jiskaske ou rive nan bwa ki an sante",
+    "Rache epi boule pye ki mouri yo"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pas de remède naturel ni chimique qui guérit l'esca",
+    "Couvrir les grosses plaies de taille avec un mastic ou de la cire",
+    "Tailler par temps sec et désinfecter le sécateur entre les pieds"
+   ],
+   "ht": [
+    "Pa gen remèd natirèl ni chimik ki geri eska",
+    "Kouvri gwo blesi taye yo ak mastik oswa lasi",
+    "Taye lè tan an sèk epi dezenfekte sekatè a ant chak pye"
+   ]
+  },
+  "products": [],
+  "prevent": {
+   "fr": [
+    "Éviter les grosses coupes de taille",
+    "Tailler en saison sèche, jamais sous la pluie",
+    "Planter des boutures saines venant de pieds sans maladie"
+   ],
+   "ht": [
+    "Evite fè gwo koupe lè w ap taye",
+    "Taye nan sezon sèk, pa janm anba lapli",
+    "Plante bouti ki soti nan pye ki pa malad"
+   ]
+  },
+  "help": {
+   "fr": "Consultez un agronome ou le BAC si plusieurs pieds dépérissent, pour confirmer et organiser l'arrachage.",
+   "ht": "Konsilte yon agwonòm oswa BAC la si plizyè pye ap deperi, pou konfime epi òganize rache yo."
+  }
+ },
+ "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+  "crop": {
+   "fr": "Vigne",
+   "ht": "Rezen"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Brûlure des feuilles (taches d'Isariopsis)",
+   "ht": "Tach fèy rezen (Isariopsis)"
+  },
+  "description": {
+   "fr": "Champignon (Pseudocercospora vitis) fréquent en climat chaud et humide. Il fait tomber les feuilles et affaiblit la vigne.",
+   "ht": "Se yon chanpiyon (Pseudocercospora vitis) ki kouran kote ki cho ak imid. Li fè fèy yo tonbe epi pye rezen an vin fèb."
+  },
+  "signs": {
+   "fr": [
+    "Taches brun foncé irrégulières sur les vieilles feuilles",
+    "Bord jaune autour des taches",
+    "Duvet sombre sous la feuille",
+    "Feuilles qui sèchent et tombent tôt"
+   ],
+   "ht": [
+    "Tach mawon fonse ki pa regilye sou vye fèy yo",
+    "Yon bòdi jòn otou tach yo",
+    "Yon ti pousyè fonse anba fèy la",
+    "Fèy ki seche epi tonbe twò bonè"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Retirer les feuilles tachées",
+    "Ramasser les feuilles tombées au sol",
+    "Arroser au pied, pas sur les feuilles"
+   ],
+   "ht": [
+    "Retire fèy ki gen tach yo",
+    "Ranmase fèy ki tonbe atè",
+    "Wouze nan pye, pa sou fèy yo"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Bouillie bordelaise (cuivre), acceptée en bio, en prévention",
+    "Tailler et palisser pour aérer le feuillage",
+    "Paillage au sol pour limiter les éclaboussures"
+   ],
+   "ht": [
+    "Bouyi bòdelèz (kwiv), li aksepte nan biyo, flite davans",
+    "Taye epi mare branch yo pou lè pase nan fèy yo",
+    "Mete pay atè pou dlo pa fè labou frape sou fèy yo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Cuivre (bouillie bordelaise)"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Nettoyer les feuilles mortes après la récolte",
+    "Bien espacer et palisser les pieds",
+    "Surveiller les feuilles en saison des pluies"
+   ],
+   "ht": [
+    "Netwaye fèy mouri yo apre rekòt",
+    "Kite espas ant pye yo epi mare yo byen",
+    "Siveye fèy yo nan sezon lapli"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome ou le BAC si la vigne perd plus de la moitié de ses feuilles.",
+   "ht": "Rele yon agwonòm oswa BAC la si pye rezen an pèdi plis pase mwatye fèy li yo."
+  }
+ },
+ "Orange___Haunglongbing_(Citrus_greening)": {
+  "crop": {
+   "fr": "Oranger",
+   "ht": "Pye zoranj"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Huanglongbing (verdissement des agrumes)",
+   "ht": "Maladi vèdisman sitwon ak zoranj (HLB)"
+  },
+  "description": {
+   "fr": "Maladie bactérienne grave et INCURABLE, transmise par un petit insecte, le psylle des agrumes. L'arbre infecté décline et finit par mourir, et il contamine les autres.",
+   "ht": "Se yon maladi bakteri ki grav anpil epi ki PA GERI, yon ti ensèk yo rele psil sitwon transmèt li. Pye ki malad la ap deperi jiskaske l mouri, epi li kontamine lòt pye yo."
+  },
+  "signs": {
+   "fr": [
+    "Feuilles marbrées jaune et vert, pas pareilles des deux côtés",
+    "Fruits petits, déformés, restant verts en bas",
+    "Jus amer et graines avortées",
+    "Branches jaunes et chute de fruits"
+   ],
+   "ht": [
+    "Fèy ki tache jòn ak vèt, ki pa menm bagay sou de bò yo",
+    "Fwi ki piti, defòme, ki rete vèt anba",
+    "Ji anmè ak grenn ki pa devlope",
+    "Branch ki vin jòn ak fwi ki tonbe"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Signaler l'arbre au service agricole (BAC/MARNDR) pour confirmer",
+    "Ne pas déplacer de plants, greffons ou branches de cet arbre",
+    "Si confirmé : arracher et détruire l'arbre malade"
+   ],
+   "ht": [
+    "Rapòte pye a bay sèvis agrikòl la (BAC/MARNDR) pou yo konfime",
+    "Pa deplase plant, grefon oswa branch ki soti nan pye sa a",
+    "Si yo konfime: rache epi detwi pye ki malad la"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Aucun remède, naturel ou chimique, ne guérit cette maladie",
+    "Neem ou savon noir sur les jeunes pousses réduisent les psylles, sans guérir l'arbre"
+   ],
+   "ht": [
+    "Pa gen okenn remèd, ni natirèl ni chimik, ki geri maladi sa a",
+    "Nim oswa savon nwa sou jèn ti branch yo diminye psil yo, men yo pa geri pye a"
+   ]
+  },
+  "products": [],
+  "prevent": {
+   "fr": [
+    "Acheter seulement des plants certifiés sains en pépinière contrôlée",
+    "Surveiller et contrôler les psylles sur les jeunes pousses",
+    "Arracher vite tout arbre confirmé malade"
+   ],
+   "ht": [
+    "Achte sèlman plant ki sètifye an sante nan pepinyè ki kontwole",
+    "Siveye epi kontwole psil yo sou jèn ti branch yo",
+    "Rache vit tout pye yo konfime ki malad"
+   ]
+  },
+  "help": {
+   "fr": "Maladie réglementée : prévenez tout de suite un agronome, le BAC ou le MARNDR dès le premier doute.",
+   "ht": "Se yon maladi leta kontwole: avèti yon agwonòm, BAC la oswa MARNDR touswit depi w gen yon dout."
+  }
+ },
+ "Peach___Bacterial_spot": {
+  "crop": {
+   "fr": "Pêcher",
+   "ht": "Pye pèch"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Tache bactérienne du pêcher",
+   "ht": "Tach bakteri sou pye pèch"
+  },
+  "description": {
+   "fr": "Maladie causée par une bactérie (Xanthomonas) qui se propage avec la pluie et le vent. Elle fait tomber les feuilles et abîme les fruits.",
+   "ht": "Se yon bakteri (Xanthomonas) ki gaye ak lapli ak van. Li fè fèy yo tonbe epi li gate fwi yo."
+  },
+  "signs": {
+   "fr": [
+    "Petites taches anguleuses violacées puis brunes sur les feuilles",
+    "Le centre des taches tombe : feuilles « trouées »",
+    "Feuilles qui jaunissent et tombent",
+    "Petites taches creuses et crevasses sur les fruits"
+   ],
+   "ht": [
+    "Ti tach kare vyolèt ki vin mawon sou fèy yo",
+    "Mitan tach yo tonbe, fèy la gen ti twou",
+    "Fèy ki vin jòn epi tonbe",
+    "Ti tach kre ak fant sou fwi yo"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Retirer les feuilles et fruits très atteints",
+    "Éviter de toucher l'arbre quand il est mouillé",
+    "Ne pas arroser par-dessus le feuillage"
+   ],
+   "ht": [
+    "Retire fèy ak fwi ki pi malad yo",
+    "Pa manyen pye a lè l mouye",
+    "Pa wouze sou fèy yo"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pas de remède naturel qui guérit la bactérie",
+    "Cuivre (bouillie bordelaise), accepté en bio, peut freiner la propagation",
+    "Éviter l'excès d'engrais azoté"
+   ],
+   "ht": [
+    "Pa gen remèd natirèl ki geri bakteri a",
+    "Kwiv (bouyi bòdelèz), aksepte nan biyo, ka ralanti maladi a",
+    "Pa mete twòp angrè azòt"
+   ]
+  },
+  "products": [
+   {
+    "family": "Bactéricide / fongicide de contact",
+    "active": "Cuivre (bouillie bordelaise)"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Choisir des variétés tolérantes",
+    "Planter à l'abri des vents forts",
+    "Tailler pour aérer et désinfecter les outils"
+   ],
+   "ht": [
+    "Chwazi varyete ki reziste",
+    "Plante kote ki pwoteje kont gwo van",
+    "Taye pou lè pase epi dezenfekte zouti yo"
+   ]
+  },
+  "help": {
+   "fr": "Contactez un agronome ou le BAC si l'arbre perd beaucoup de feuilles ou si des chancres apparaissent sur les branches.",
+   "ht": "Kontakte yon agwonòm oswa BAC la si pye a pèdi anpil fèy oswa si blesi parèt sou branch yo."
+  }
+ },
+ "Pepper,_bell___Bacterial_spot": {
+  "crop": {
+   "fr": "Poivron",
+   "ht": "Piman dous"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Tache bactérienne du poivron",
+   "ht": "Tach bakteri sou piman dous"
+  },
+  "description": {
+   "fr": "Maladie due à une bactérie (Xanthomonas) qui vient souvent des semences et se propage par la pluie. Elle fait tomber les feuilles et tache les fruits.",
+   "ht": "Se yon bakteri (Xanthomonas) ki souvan soti nan semans yo epi ki gaye ak lapli. Li fè fèy yo tonbe epi li tache fwi yo."
+  },
+  "signs": {
+   "fr": [
+    "Petites taches brun foncé, d'aspect mouillé, sur les feuilles",
+    "Feuilles qui jaunissent et tombent",
+    "Taches rugueuses et soulevées sur les fruits",
+    "Fruits brûlés par le soleil après la chute des feuilles"
+   ],
+   "ht": [
+    "Ti tach mawon fonse ki sanble mouye sou fèy yo",
+    "Fèy ki vin jòn epi tonbe",
+    "Tach graj ki leve sou fwi yo",
+    "Fwi ki boule nan solèy apre fèy yo fin tonbe"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Arracher les plants très malades et les détruire",
+    "Arroser au pied, jamais sur les feuilles",
+    "Ne pas travailler entre les plants mouillés"
+   ],
+   "ht": [
+    "Rache plant ki malad anpil yo epi detwi yo",
+    "Wouze nan pye, pa janm sou fèy yo",
+    "Pa travay nan mitan plant yo lè yo mouye"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pas de remède naturel qui guérit la bactérie",
+    "Paillage pour éviter que la terre éclabousse les feuilles",
+    "Cuivre (bouillie bordelaise), accepté en bio, pour freiner la maladie"
+   ],
+   "ht": [
+    "Pa gen remèd natirèl ki geri bakteri a",
+    "Mete pay atè pou labou pa frape sou fèy yo",
+    "Kwiv (bouyi bòdelèz), aksepte nan biyo, pou ralanti maladi a"
+   ]
+  },
+  "products": [
+   {
+    "family": "Bactéricide / fongicide de contact",
+    "active": "Cuivre (hydroxyde ou oxychlorure de cuivre)"
+   },
+   {
+    "family": "Fongicide de contact (en mélange avec le cuivre)",
+    "active": "Mancozèbe"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Utiliser des semences saines ou certifiées",
+    "Ne pas replanter piment, poivron ou tomate au même endroit pendant 2 ans",
+    "Détruire les restes de culture après la récolte"
+   ],
+   "ht": [
+    "Sèvi ak semans ki an sante oswa ki sètifye",
+    "Pa replante piman oswa tomat menm kote a pandan 2 an",
+    "Detwi rès plant yo apre rekòt la"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome ou le BAC si la maladie s'étend à toute la parcelle malgré ces mesures.",
+   "ht": "Rele yon agwonòm oswa BAC la si maladi a gaye nan tout jaden an malgre sa w fè."
+  }
+ },
+ "Potato___Early_blight": {
+  "crop": {
+   "fr": "Pomme de terre",
+   "ht": "Pòmdetè"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Alternariose (brûlure précoce)",
+   "ht": "Alternaryoz (tach nwa)"
+  },
+  "description": {
+   "fr": "Maladie causée par un champignon (Alternaria) qui attaque d'abord les vieilles feuilles. Elle affaiblit la plante et réduit la taille des tubercules.",
+   "ht": "Se yon chanpiyon (Alternaria) ki atake vye fèy yo an premye. Li fè plant lan fèb epi pòmdetè yo rete piti."
+  },
+  "signs": {
+   "fr": [
+    "Taches brunes rondes avec des cercles concentriques (cible)",
+    "Halo jaune autour des taches",
+    "Les feuilles du bas jaunissent et sèchent en premier"
+   ],
+   "ht": [
+    "Tach mawon won ak sèk youn andan lòt (tankou yon sib)",
+    "Yon ti wonn jòn otou tach yo",
+    "Fèy anba yo vin jòn epi sèch an premye"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Enlever et brûler ou enterrer les feuilles malades",
+    "Arroser au pied, jamais sur les feuilles",
+    "Ne pas toucher les plants sains après les malades"
+   ],
+   "ht": [
+    "Retire fèy malad yo, boule yo oswa tere yo",
+    "Wouze nan pye plant lan, pa janm sou fèy yo",
+    "Pa manyen plant ki an sante apre ou fin manyen plant malad"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pailler le sol pour éviter les éclaboussures de terre",
+    "Apporter du compost : une plante bien nourrie résiste mieux",
+    "Bicarbonate + savon noir en préventif (effet limité)"
+   ],
+   "ht": [
+    "Kouvri tè a ak pay pou tè pa voye sou fèy yo",
+    "Mete konpòs : yon plant ki byen manje reziste pi byen",
+    "Bikabonat ak savon nwa pou prevansyon (li pa twò fò)"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Cuivre (oxychlorure de cuivre)"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Faire une rotation : pas de pomme de terre ni tomate au même endroit 2–3 ans",
+    "Planter des semences saines et espacer les plants",
+    "Détruire les résidus de culture après la récolte"
+   ],
+   "ht": [
+    "Chanje kote w plante : pa mete pòmdetè ni tomat menm kote a pandan 2–3 lane",
+    "Plante semans ki an sante epi kite espas ant plant yo",
+    "Detwi rès plant yo apre rekòt la"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si les taches gagnent plus de la moitié du champ malgré ces gestes.",
+   "ht": "Rele yon agwonòm si tach yo pran plis pase mwatye jaden an malgre tout sa w fè yo."
+  }
+ },
+ "Potato___Late_blight": {
+  "crop": {
+   "fr": "Pomme de terre",
+   "ht": "Pòmdetè"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Mildiou",
+   "ht": "Mildyou (maladi fèy boule)"
+  },
+  "description": {
+   "fr": "Maladie due à un organisme proche des champignons (Phytophthora). Par temps humide et pluvieux, elle se propage très vite et peut détruire un champ en quelques jours.",
+   "ht": "Se yon mikwòb ki sanble ak chanpiyon (Phytophthora). Lè tan an mouye ak lapli, li gaye trè vit epi li ka detwi tout yon jaden nan kèk jou."
+  },
+  "signs": {
+   "fr": [
+    "Grandes taches brun-noir, comme brûlées ou trempées d'eau",
+    "Duvet blanc sous les feuilles le matin humide",
+    "Tiges noircies, plante qui s'effondre",
+    "Tubercules avec taches brun-rouge et pourriture"
+   ],
+   "ht": [
+    "Gwo tach mawon-nwa, tankou fèy la boule oswa tranpe nan dlo",
+    "Yon ti lenn blan anba fèy yo lè maten an mouye",
+    "Tij yo vin nwa, plant lan tonbe",
+    "Pòmdetè yo gen tach mawon-wouj epi yo pouri"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Agir aujourd'hui : arracher et détruire les plants touchés, loin du champ",
+    "Ne jamais mettre les plants malades au compost",
+    "Protéger vite le reste du champ avant la prochaine pluie"
+   ],
+   "ht": [
+    "Aji jodi a menm : rache plant ki malad yo epi detwi yo lwen jaden an",
+    "Pa janm mete plant malad nan konpòs",
+    "Pwoteje rès jaden an vit anvan pwochen lapli a"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pas de remède naturel efficace une fois installé : la vitesse compte",
+    "Bouillie bordelaise (cuivre) en préventif, avant les pluies",
+    "Butter les plants pour protéger les tubercules"
+   ],
+   "ht": [
+    "Pa gen remèd natirèl ki mache lè maladi a fin antre : fòk ou aji vit",
+    "Bouyi bòdlèz (kwiv) pou prevansyon, anvan lapli yo",
+    "Bite tè sou pye plant yo pou pwoteje pòmdetè yo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact (préventif)",
+    "active": "Mancozèbe"
+   },
+   {
+    "family": "Fongicide systémique anti-mildiou (en mélange)",
+    "active": "Métalaxyl-M + mancozèbe"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Planter des semences saines, jamais de tubercules malades",
+    "Espacer les plants et éviter l'arrosage sur les feuilles",
+    "Surveiller le champ chaque jour en saison des pluies"
+   ],
+   "ht": [
+    "Plante semans ki an sante, pa janm pòmdetè ki malad",
+    "Kite espas ant plant yo epi pa wouze sou fèy yo",
+    "Pase gade jaden an chak jou nan sezon lapli"
+   ]
+  },
+  "help": {
+   "fr": "Appelez tout de suite un agronome ou le service agricole local : le mildiou menace aussi les champs voisins.",
+   "ht": "Rele yon agwonòm oswa sèvis agrikòl zòn nan touswit : mildyou a ka atake jaden vwazen yo tou."
+  }
+ },
+ "Squash___Powdery_mildew": {
+  "crop": {
+   "fr": "Courge",
+   "ht": "Joumou"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Oïdium (blanc)",
+   "ht": "Oyidyòm (farin blan sou fèy)"
+  },
+  "description": {
+   "fr": "Champignon qui couvre les feuilles d'une poudre blanche. Il réduit la photosynthèse, fait sécher les feuilles et diminue la récolte.",
+   "ht": "Se yon chanpiyon ki kouvri fèy yo ak yon pousyè blan. Li anpeche fèy yo travay, li fè yo sèch epi rekòt la vin pi piti."
+  },
+  "signs": {
+   "fr": [
+    "Taches de poudre blanche sur le dessus des feuilles",
+    "Feuilles qui jaunissent puis sèchent",
+    "Fruits plus petits ou mal mûris"
+   ],
+   "ht": [
+    "Tach pousyè blan sou fèy yo, tankou farin",
+    "Fèy yo vin jòn epi yo sèch",
+    "Fwi yo pi piti oswa yo pa byen mi"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Couper les feuilles les plus atteintes et les sortir du jardin",
+    "Aérer : enlever des feuilles trop serrées",
+    "Traiter le reste dès les premières taches"
+   ],
+   "ht": [
+    "Koupe fèy ki pi malad yo epi sòti yo nan jaden an",
+    "Bay plant lan lè : retire fèy ki twò sere",
+    "Trete rès plant lan depi premye tach yo parèt"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Bicarbonate de soude + un peu de savon noir dans l'eau, pulvériser",
+    "Lait dilué (1 part pour 9 d'eau) en pulvérisation",
+    "Traiter le soir, pas en plein soleil"
+   ],
+   "ht": [
+    "Bikabonat ak yon ti savon nwa nan dlo, flite sou fèy yo",
+    "Lèt melanje ak dlo (1 pòsyon lèt pou 9 pòsyon dlo), flite",
+    "Flite nan aswè, pa nan gwo solèy"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Soufre mouillable (éviter par forte chaleur)"
+   },
+   {
+    "family": "Fongicide biologique",
+    "active": "Bicarbonate de potassium"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Planter au soleil avec assez d'espace entre les pieds",
+    "Éviter trop d'engrais azoté (feuillage trop tendre)",
+    "Arroser au pied, le matin"
+   ],
+   "ht": [
+    "Plante nan solèy ak ase espas ant pye yo",
+    "Pa mete twòp angrè azòt (fèy yo vin twò mou)",
+    "Wouze nan pye plant lan, nan maten"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si la maladie revient chaque saison ou touche tout le champ.",
+   "ht": "Rele yon agwonòm si maladi a tounen chak sezon oswa si l pran tout jaden an."
+  }
+ },
+ "Strawberry___Leaf_scorch": {
+  "crop": {
+   "fr": "Fraisier",
+   "ht": "Frèz"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Brûlure des feuilles",
+   "ht": "Fèy boule (tach mov)"
+  },
+  "description": {
+   "fr": "Maladie causée par un champignon (Diplocarpon) favorisée par l'humidité. Les feuilles sèchent et la plante produit moins de fraises.",
+   "ht": "Se yon chanpiyon (Diplocarpon) ki renmen imidite. Fèy yo sèch epi plant lan bay mwens frèz."
+  },
+  "signs": {
+   "fr": [
+    "Petites taches violet foncé sur les feuilles",
+    "Les taches se rejoignent, la feuille semble brûlée",
+    "Bords des feuilles qui sèchent et s'enroulent"
+   ],
+   "ht": [
+    "Ti tach mov fonse sou fèy yo",
+    "Tach yo kole ansanm, fèy la sanble boule",
+    "Bò fèy yo sèch epi yo woule"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Retirer et détruire les feuilles tachées",
+    "Arroser au pied, jamais sur les feuilles",
+    "Désherber pour que l'air circule"
+   ],
+   "ht": [
+    "Retire fèy ki gen tach yo epi detwi yo",
+    "Wouze nan pye plant lan, pa janm sou fèy yo",
+    "Sakle pou van ka pase"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pailler sous les plants pour éviter les éclaboussures",
+    "Compost bien décomposé pour fortifier les plants"
+   ],
+   "ht": [
+    "Mete pay anba plant yo pou tè pa voye sou fèy yo",
+    "Konpòs ki byen pouri pou fòtifye plant yo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Cuivre (oxychlorure de cuivre)"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Captane"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Planter des plants sains et bien espacés",
+    "Renouveler la fraiseraie tous les 2–3 ans",
+    "Enlever les vieilles feuilles après la récolte"
+   ],
+   "ht": [
+    "Plante plant ki an sante ak bon espas ant yo",
+    "Chanje plant frèz yo chak 2–3 lane",
+    "Retire vye fèy yo apre rekòt la"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si les taches s'étendent à la plupart des plants malgré le nettoyage.",
+   "ht": "Rele yon agwonòm si tach yo gaye sou pifò plant yo malgre ou netwaye."
+  }
+ },
+ "Tomato___Bacterial_spot": {
+  "crop": {
+   "fr": "Tomate",
+   "ht": "Tomat"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Tache bactérienne",
+   "ht": "Tach bakteri"
+  },
+  "description": {
+   "fr": "Maladie causée par une bactérie (Xanthomonas), très favorisée par la chaleur et la pluie. Elle abîme feuilles et fruits et se transmet par l'eau et les mains.",
+   "ht": "Se yon bakteri (Xanthomonas) ki renmen chalè ak lapli. Li gate fèy ak fwi, epi li gaye ak dlo ak men moun."
+  },
+  "signs": {
+   "fr": [
+    "Petites taches sombres et grasses sur les feuilles",
+    "Feuilles qui jaunissent et tombent",
+    "Petites croûtes rugueuses sur les fruits"
+   ],
+   "ht": [
+    "Ti tach nwa ki sanble gra sou fèy yo",
+    "Fèy yo vin jòn epi yo tonbe",
+    "Ti kal brital sou tomat yo"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Enlever et détruire les feuilles et fruits très touchés",
+    "Ne pas travailler dans le jardin quand les plants sont mouillés",
+    "Laver les mains et outils après chaque plant malade"
+   ],
+   "ht": [
+    "Retire fèy ak fwi ki pi malad yo epi detwi yo",
+    "Pa travay nan jaden an lè plant yo mouye",
+    "Lave men ak zouti apre chak plant malad"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pas de remède naturel qui guérit : on peut seulement freiner",
+    "Paillage pour limiter les éclaboussures de terre"
+   ],
+   "ht": [
+    "Pa gen remèd natirèl ki geri l : ou ka sèlman ralanti l",
+    "Mete pay sou tè a pou dlo pa fè tè voye sou fèy yo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Bactéricide de contact",
+    "active": "Cuivre (hydroxyde de cuivre)"
+   },
+   {
+    "family": "Fongicide de contact (en mélange avec le cuivre)",
+    "active": "Mancozèbe"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Utiliser des semences saines ou de source sûre",
+    "Rotation : pas de tomate, piment ou poivron au même endroit 2 ans",
+    "Arroser au pied et espacer les plants"
+   ],
+   "ht": [
+    "Sèvi ak semans ki an sante oswa ki sòti bon kote",
+    "Chanje kote : pa mete tomat, piman ni piman dous menm kote a pandan 2 lane",
+    "Wouze nan pye plant lan epi kite espas ant yo"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si les fruits sont touchés sur beaucoup de plants.",
+   "ht": "Rele yon agwonòm si tomat yo malad sou anpil plant."
+  }
+ },
+ "Tomato___Early_blight": {
+  "crop": {
+   "fr": "Tomate",
+   "ht": "Tomat"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Alternariose (brûlure précoce)",
+   "ht": "Alternaryoz (tach nwa)"
+  },
+  "description": {
+   "fr": "Maladie causée par un champignon (Alternaria) qui commence sur les vieilles feuilles du bas. Sans soin, la plante perd ses feuilles et les fruits brûlent au soleil.",
+   "ht": "Se yon chanpiyon (Alternaria) ki kòmanse sou vye fèy anba yo. Si w pa okipe l, plant lan pèdi fèy li epi solèy boule tomat yo."
+  },
+  "signs": {
+   "fr": [
+    "Taches brunes avec des cercles comme une cible",
+    "Jaunissement autour des taches",
+    "Feuilles du bas qui sèchent en premier",
+    "Taches sombres près de la queue du fruit"
+   ],
+   "ht": [
+    "Tach mawon ak sèk youn andan lòt, tankou yon sib",
+    "Fèy la vin jòn otou tach yo",
+    "Fèy anba yo sèch an premye",
+    "Tach nwa toupre ke tomat la"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Couper les feuilles malades du bas et les détruire",
+    "Arroser au pied, le matin",
+    "Tuteurer les plants pour les éloigner du sol"
+   ],
+   "ht": [
+    "Koupe fèy malad anba yo epi detwi yo",
+    "Wouze nan pye plant lan, nan maten",
+    "Mare plant yo sou yon tou pou yo pa touche tè"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pailler le sol pour éviter les éclaboussures",
+    "Compost pour une plante vigoureuse",
+    "Bicarbonate + savon noir en préventif (effet limité)"
+   ],
+   "ht": [
+    "Mete pay sou tè a pou tè pa voye sou fèy yo",
+    "Konpòs pou plant lan gen fòs",
+    "Bikabonat ak savon nwa pou prevansyon (li pa twò fò)"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Chlorothalonil"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Rotation de 2–3 ans sans tomate, pomme de terre ou aubergine",
+    "Espacer les plants pour qu'ils sèchent vite",
+    "Détruire les restes de culture après la récolte"
+   ],
+   "ht": [
+    "Chanje kote pandan 2–3 lane san tomat, pòmdetè ni berejèn",
+    "Kite espas ant plant yo pou yo seche vit",
+    "Detwi rès plant yo apre rekòt la"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si la maladie monte jusqu'au haut des plants malgré les soins.",
+   "ht": "Rele yon agwonòm si maladi a monte rive anlè plant yo malgre swen ou bay."
+  }
+ },
+ "Tomato___Late_blight": {
+  "crop": {
+   "fr": "Tomate",
+   "ht": "Tomat"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Mildiou",
+   "ht": "Mildyou (maladi fèy boule)"
+  },
+  "description": {
+   "fr": "Maladie due à un organisme proche des champignons (Phytophthora). Par temps frais et humide, elle se propage très vite et peut détruire un champ en quelques jours.",
+   "ht": "Se yon mikwòb ki sanble ak chanpiyon (Phytophthora). Lè tan an fre epi mouye, li gaye trè vit epi li ka detwi tout yon jaden nan kèk jou."
+  },
+  "signs": {
+   "fr": [
+    "Grandes taches brun-vert, comme trempées d'eau",
+    "Duvet blanc sous les feuilles par temps humide",
+    "Tiges avec taches noires",
+    "Fruits avec taches brunes, dures et grasses"
+   ],
+   "ht": [
+    "Gwo tach mawon-vèt, tankou fèy la tranpe nan dlo",
+    "Yon ti lenn blan anba fèy yo lè tan an mouye",
+    "Tach nwa sou tij yo",
+    "Tomat yo gen tach mawon, di epi gra"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Agir aujourd'hui : arracher et détruire les plants touchés, loin du jardin",
+    "Ne pas les mettre au compost",
+    "Protéger vite les plants sains avant la prochaine pluie"
+   ],
+   "ht": [
+    "Aji jodi a menm : rache plant malad yo epi detwi yo lwen jaden an",
+    "Pa mete yo nan konpòs",
+    "Pwoteje plant ki an sante yo vit anvan pwochen lapli a"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pas de remède naturel efficace une fois installé : la vitesse compte",
+    "Bouillie bordelaise (cuivre) en préventif, avant les pluies"
+   ],
+   "ht": [
+    "Pa gen remèd natirèl ki mache lè maladi a fin antre : fòk ou aji vit",
+    "Bouyi bòdlèz (kwiv) pou prevansyon, anvan lapli yo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact (préventif)",
+    "active": "Mancozèbe"
+   },
+   {
+    "family": "Fongicide systémique anti-mildiou (en mélange)",
+    "active": "Métalaxyl-M + mancozèbe"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Ne pas planter tomate près des pommes de terre",
+    "Tuteurer, espacer et arroser au pied",
+    "Surveiller chaque jour en saison des pluies"
+   ],
+   "ht": [
+    "Pa plante tomat toupre pòmdetè",
+    "Mare plant yo sou tou, kite espas, epi wouze nan pye",
+    "Pase gade jaden an chak jou nan sezon lapli"
+   ]
+  },
+  "help": {
+   "fr": "Appelez tout de suite un agronome ou le service agricole local : le mildiou menace aussi les jardins voisins.",
+   "ht": "Rele yon agwonòm oswa sèvis agrikòl zòn nan touswit : mildyou a ka atake jaden vwazen yo tou."
+  }
+ },
+ "Tomato___Leaf_Mold": {
+  "crop": {
+   "fr": "Tomate",
+   "ht": "Tomat"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Cladosporiose (moisissure des feuilles)",
+   "ht": "Mwazi sou fèy (kladospoyoz)"
+  },
+  "description": {
+   "fr": "Champignon (Passalora fulva) qui aime l'air très humide et mal aéré. Les feuilles meurent et la récolte baisse.",
+   "ht": "Se yon chanpiyon (Passalora fulva) ki renmen kote ki trè imid epi ki pa gen van. Fèy yo mouri epi rekòt la bese."
+  },
+  "signs": {
+   "fr": [
+    "Taches jaune pâle sur le dessus des feuilles",
+    "Feutrage vert olive à brun sous les feuilles",
+    "Feuilles qui s'enroulent, sèchent et tombent"
+   ],
+   "ht": [
+    "Tach jòn pal anlè fèy yo",
+    "Yon kouch tankou vlou vèt-oliv oswa mawon anba fèy yo",
+    "Fèy yo woule, sèch epi tonbe"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Retirer et détruire les feuilles malades",
+    "Aérer : tailler les feuilles basses et trop serrées",
+    "Arroser le matin, au pied seulement"
+   ],
+   "ht": [
+    "Retire fèy malad yo epi detwi yo",
+    "Bay plant yo lè : taye fèy anba ak fèy ki twò sere",
+    "Wouze nan maten, nan pye plant lan sèlman"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Le plus efficace : réduire l'humidité et faire circuler l'air",
+    "Bicarbonate + savon noir en préventif (effet limité)"
+   ],
+   "ht": [
+    "Sa ki pi bon : diminye imidite a epi kite van pase",
+    "Bikabonat ak savon nwa pou prevansyon (li pa twò fò)"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Cuivre (oxychlorure de cuivre)"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Chlorothalonil"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Espacer les plants et les tuteurer",
+    "Sous abri, bien ouvrir pour aérer",
+    "Nettoyer les débris après la récolte"
+   ],
+   "ht": [
+    "Kite espas ant plant yo epi mare yo sou tou",
+    "Si w plante anba yon abri, louvri l byen pou van pase",
+    "Netwaye rès plant yo apre rekòt la"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si la maladie revient à chaque culture malgré une bonne aération.",
+   "ht": "Rele yon agwonòm si maladi a tounen chak fwa w plante malgre plant yo byen aere."
+  }
+ },
+ "Tomato___Septoria_leaf_spot": {
+  "crop": {
+   "fr": "Tomate",
+   "ht": "Tomat"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Septoriose",
+   "ht": "Septoryoz (ti tach pwentiye)"
+  },
+  "description": {
+   "fr": "Champignon (Septoria) qui fait de nombreuses petites taches sur les feuilles, surtout après la pluie. La plante perd ses feuilles et s'affaiblit.",
+   "ht": "Se yon chanpiyon (Septoria) ki fè anpil ti tach sou fèy yo, sitou apre lapli. Plant lan pèdi fèy li epi li vin fèb."
+  },
+  "signs": {
+   "fr": [
+    "Nombreuses petites taches rondes à centre gris clair",
+    "Bord des taches brun foncé, petits points noirs au centre",
+    "Commence sur les feuilles du bas, qui jaunissent et tombent"
+   ],
+   "ht": [
+    "Anpil ti tach won ak mitan gri klè",
+    "Bò tach yo mawon fonse, ti pwen nwa nan mitan yo",
+    "Li kòmanse sou fèy anba yo, ki vin jòn epi tonbe"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Enlever et détruire les feuilles tachées du bas",
+    "Arroser au pied, jamais sur les feuilles",
+    "Ne pas travailler entre les plants mouillés"
+   ],
+   "ht": [
+    "Retire fèy anba ki gen tach yo epi detwi yo",
+    "Wouze nan pye plant lan, pa janm sou fèy yo",
+    "Pa travay nan mitan plant yo lè yo mouye"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pailler le sol pour limiter les éclaboussures",
+    "Compost pour garder la plante vigoureuse"
+   ],
+   "ht": [
+    "Mete pay sou tè a pou tè pa voye sou fèy yo",
+    "Konpòs pou plant lan rete gen fòs"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Chlorothalonil"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Rotation de 2–3 ans sans tomate ni aubergine",
+    "Arracher les mauvaises herbes de la même famille (morelle)",
+    "Détruire les restes de plants après la récolte"
+   ],
+   "ht": [
+    "Chanje kote pandan 2–3 lane san tomat ni berejèn",
+    "Rache move zèb ki nan menm fanmi ak tomat (lanman)",
+    "Detwi rès plant yo apre rekòt la"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si les plants perdent la plupart de leurs feuilles avant la récolte.",
+   "ht": "Rele yon agwonòm si plant yo pèdi pifò fèy yo anvan rekòt la."
+  }
+ },
+ "Tomato___Spider_mites Two-spotted_spider_mite": {
+  "crop": {
+   "fr": "Tomate",
+   "ht": "Tomat"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Acariens (tétranyque tisserand)",
+   "ht": "Akaryen (ti zarenyen wouj)"
+  },
+  "description": {
+   "fr": "Minuscules acariens qui sucent la sève sous les feuilles. Ils pullulent par temps chaud et sec et peuvent faire sécher la plante.",
+   "ht": "Se ti bèt piti anpil ki souse ji fèy yo pa anba. Yo miltipliye vit lè tan an cho epi sèk, epi yo ka fè plant lan sèch."
+  },
+  "signs": {
+   "fr": [
+    "Petits points jaunes ou blancs sur les feuilles",
+    "Fines toiles sous les feuilles et entre les tiges",
+    "Feuilles grisâtres ou bronzées qui sèchent",
+    "Petits points mobiles sous les feuilles (loupe)"
+   ],
+   "ht": [
+    "Ti pwen jòn oswa blan sou fèy yo",
+    "Ti fil twal anba fèy yo ak ant tij yo",
+    "Fèy yo vin gri oswa koulè kwiv epi yo sèch",
+    "Ti pwen k ap mache anba fèy yo (gade ak loup)"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Arroser fort sous les feuilles avec de l'eau claire",
+    "Enlever les feuilles très touchées",
+    "Garder le sol humide : la chaleur sèche favorise les acariens"
+   ],
+   "ht": [
+    "Flite dlo fò anba fèy yo",
+    "Retire fèy ki pi malad yo",
+    "Kenbe tè a imid : chalè sèk fè akaryen yo miltipliye"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Savon noir dilué, pulvérisé sous les feuilles tous les 5–7 jours",
+    "Huile ou extrait de neem en pulvérisation",
+    "Éviter les insecticides larges qui tuent leurs ennemis naturels"
+   ],
+   "ht": [
+    "Savon nwa nan dlo, flite anba fèy yo chak 5–7 jou",
+    "Lwil oswa ji fèy nim, flite sou plant yo",
+    "Evite pwazon ki touye tout ensèk, paske yo touye bèt ki manje akaryen yo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Acaricide",
+    "active": "Abamectine"
+   },
+   {
+    "family": "Acaricide / fongicide minéral",
+    "active": "Soufre mouillable (éviter par forte chaleur)"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Arroser régulièrement en saison sèche",
+    "Inspecter le dessous des feuilles chaque semaine",
+    "Désherber les abords, où les acariens se cachent"
+   ],
+   "ht": [
+    "Wouze regilyèman nan sezon sèk",
+    "Gade anba fèy yo chak semèn",
+    "Sakle bò jaden an, kote akaryen yo kache"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si les toiles couvrent les plants ou si les traitements n'agissent plus.",
+   "ht": "Rele yon agwonòm si fil twal yo kouvri plant yo oswa si tretman yo pa mache ankò."
+  }
+ },
+ "Tomato___Target_Spot": {
+  "crop": {
+   "fr": "Tomate",
+   "ht": "Tomat"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Corynesporiose (tache cible)",
+   "ht": "Tach sib (korinespoyoz)"
+  },
+  "description": {
+   "fr": "Champignon (Corynespora) très présent en climat chaud et humide. Il fait tomber les feuilles et peut aussi tacher les fruits.",
+   "ht": "Se yon chanpiyon (Corynespora) ki renmen klima cho ak imid. Li fè fèy yo tonbe epi li ka tache tomat yo tou."
+  },
+  "signs": {
+   "fr": [
+    "Taches brunes à cercles concentriques, centre plus clair",
+    "Taches qui se fendillent au centre",
+    "Petites taches creuses sur les fruits"
+   ],
+   "ht": [
+    "Tach mawon ak sèk youn andan lòt, mitan an pi klè",
+    "Mitan tach yo vin fann",
+    "Ti tach fon sou tomat yo"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Retirer et détruire les feuilles malades",
+    "Tailler les feuilles du bas pour aérer",
+    "Arroser au pied, le matin"
+   ],
+   "ht": [
+    "Retire fèy malad yo epi detwi yo",
+    "Taye fèy anba yo pou van pase",
+    "Wouze nan pye plant lan, nan maten"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Pailler le sol pour éviter les éclaboussures",
+    "Bonne aération et compost pour des plants vigoureux"
+   ],
+   "ht": [
+    "Mete pay sou tè a pou tè pa voye sou fèy yo",
+    "Bon van ak konpòs pou plant yo gen fòs"
+   ]
+  },
+  "products": [
+   {
+    "family": "Fongicide de contact",
+    "active": "Chlorothalonil"
+   },
+   {
+    "family": "Fongicide de contact",
+    "active": "Mancozèbe"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Rotation avec des cultures non sensibles (maïs, haricot)",
+    "Espacer et tuteurer les plants",
+    "Détruire les restes de culture"
+   ],
+   "ht": [
+    "Chanje kote ak lòt plant ki pa pran maladi a (mayi, pwa)",
+    "Kite espas ant plant yo epi mare yo sou tou",
+    "Detwi rès plant yo apre rekòt la"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si les fruits sont touchés ou si la maladie gagne tout le jardin.",
+   "ht": "Rele yon agwonòm si tomat yo malad oswa si maladi a pran tout jaden an."
+  }
+ },
+ "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+  "crop": {
+   "fr": "Tomate",
+   "ht": "Tomat"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Virus de l'enroulement jaune (TYLCV)",
+   "ht": "Viris fèy jòn ki woule (TYLCV)"
+  },
+  "description": {
+   "fr": "Virus transmis par la mouche blanche. Il n'y a aucun remède : un plant infecté jeune ne donne presque plus de fruits.",
+   "ht": "Se yon viris mouch blan pote. Pa gen okenn remèd : yon jèn plant ki pran l prèske pa bay tomat ankò."
+  },
+  "signs": {
+   "fr": [
+    "Jeunes feuilles petites, jaunes sur les bords",
+    "Feuilles enroulées vers le haut, en cuillère",
+    "Plant rabougri, fleurs qui tombent",
+    "Petites mouches blanches sous les feuilles"
+   ],
+   "ht": [
+    "Jèn fèy yo piti, jòn sou bò yo",
+    "Fèy yo woule anlè tankou yon kiyè",
+    "Plant lan rete rachitik, flè yo tonbe",
+    "Ti mouch blan anba fèy yo"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Arracher les plants malades, les mettre dans un sac et les détruire",
+    "Lutter contre la mouche blanche sur les autres plants",
+    "Arracher les mauvaises herbes autour du jardin"
+   ],
+   "ht": [
+    "Rache plant malad yo, mete yo nan yon sak epi detwi yo",
+    "Goumen kont mouch blan sou lòt plant yo",
+    "Rache move zèb bò jaden an"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Aucun traitement naturel ne guérit le virus",
+    "Contre la mouche blanche : savon noir ou neem sous les feuilles",
+    "Pièges jaunes collants pour attraper les mouches blanches"
+   ],
+   "ht": [
+    "Pa gen okenn remèd natirèl ki geri viris la",
+    "Kont mouch blan : savon nwa oswa nim anba fèy yo",
+    "Pèlen jòn ki kole pou pran mouch blan yo"
+   ]
+  },
+  "products": [
+   {
+    "family": "Insecticide d'origine végétale (contre la mouche blanche, vecteur)",
+    "active": "Azadirachtine (neem)"
+   },
+   {
+    "family": "Régulateur de croissance d'insectes (contre la mouche blanche, vecteur)",
+    "active": "Pyriproxyfène"
+   }
+  ],
+  "prevent": {
+   "fr": [
+    "Élever les plants en pépinière sous filet anti-insectes",
+    "Choisir des variétés tolérantes au TYLCV si possible",
+    "Ne pas planter près de vieux champs de tomate infectés"
+   ],
+   "ht": [
+    "Fè pepinyè anba yon moustikè (filè) pou mouch pa antre",
+    "Chwazi varyete tomat ki reziste TYLCV si w jwenn",
+    "Pa plante toupre vye jaden tomat ki malad"
+   ]
+  },
+  "help": {
+   "fr": "Appelez le service agricole local si beaucoup de plants sont touchés : la mouche blanche menace toute la zone.",
+   "ht": "Rele sèvis agrikòl zòn nan si anpil plant malad : mouch blan an ka gaye viris la nan tout zòn nan."
+  }
+ },
+ "Tomato___Tomato_mosaic_virus": {
+  "crop": {
+   "fr": "Tomate",
+   "ht": "Tomat"
+  },
+  "status": "sick",
+  "problem": {
+   "fr": "Virus de la mosaïque de la tomate (ToMV)",
+   "ht": "Viris mozayik tomat (ToMV)"
+  },
+  "description": {
+   "fr": "Virus très résistant qui se transmet par les mains, les outils, les semences et le tabac. Il n'existe aucun remède : on peut seulement éviter qu'il se propage.",
+   "ht": "Se yon viris ki di anpil, li gaye ak men moun, zouti, semans ak tabak. Pa gen okenn remèd : ou ka sèlman anpeche l gaye."
+  },
+  "signs": {
+   "fr": [
+    "Feuilles marbrées vert clair et vert foncé (mosaïque)",
+    "Feuilles déformées, étroites ou gaufrées",
+    "Plant moins vigoureux, fruits mal colorés"
+   ],
+   "ht": [
+    "Fèy yo gen plak vèt klè ak vèt fonse melanje (mozayik)",
+    "Fèy yo defòme, mens oswa tòde",
+    "Plant lan pa gen fòs, tomat yo pa byen pran koulè"
+   ]
+  },
+  "now": {
+   "fr": [
+    "Arracher et détruire les plants malades",
+    "Se laver les mains au savon avant de toucher d'autres plants",
+    "Désinfecter les outils (eau de Javel diluée)"
+   ],
+   "ht": [
+    "Rache plant malad yo epi detwi yo",
+    "Lave men w ak savon anvan w manyen lòt plant",
+    "Dezenfekte zouti yo (dlo ak ti klowòks)"
+   ]
+  },
+  "natural": {
+   "fr": [
+    "Aucun remède, naturel ou chimique, ne guérit ce virus",
+    "L'hygiène (mains, outils) est la seule vraie protection"
+   ],
+   "ht": [
+    "Pa gen okenn remèd, ni natirèl ni chimik, ki geri viris sa a",
+    "Pwòpte (men, zouti) se sèl vre pwoteksyon an"
+   ]
+  },
+  "products": [],
+  "prevent": {
+   "fr": [
+    "Utiliser des semences saines ou certifiées",
+    "Ne pas fumer ni manipuler du tabac dans le jardin",
+    "Choisir des variétés résistantes au ToMV si possible"
+   ],
+   "ht": [
+    "Sèvi ak semans ki an sante oswa ki sètifye",
+    "Pa fimen ni manyen tabak nan jaden an",
+    "Chwazi varyete ki reziste ToMV si w jwenn"
+   ]
+  },
+  "help": {
+   "fr": "Appelez un agronome si le virus apparaît sur plusieurs plants, pour vérifier l'origine des semences.",
+   "ht": "Rele yon agwonòm si viris la parèt sou plizyè plant, pou verifye ki kote semans yo sòti."
+  }
+ }
+}
